@@ -3,7 +3,7 @@ package labsheet02;
 import javax.swing.*;
 
 import java.util.Random;
-import java.text.*;
+//import java.text.*;
 public class Withdrawal {
 
 	public static void main(String[] args) {
