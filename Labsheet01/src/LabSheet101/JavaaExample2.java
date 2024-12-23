@@ -2,7 +2,6 @@ import javax.swing.*;
 public class JavaaExample2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String productName = JOptionPane.showInputDialog("Input Product Name: ");
 		
 		String productUnitSir = JOptionPane.showInputDialog("Input Product Unit: ");
