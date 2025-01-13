@@ -21,9 +21,9 @@ public class Employee {
 	}
 	public void displayEmployeeDetails() {
 		System.out.println("Name: "+ name);
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
+		System.out.println("Hour Worked: "+hoursWorked);
+		System.out.println("Hour Rate: "+ hourlyRate);
+		System.out.println("Total salary: "+calculateSalary());
 	}
 }
 
