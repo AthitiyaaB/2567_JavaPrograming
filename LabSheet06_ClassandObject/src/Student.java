@@ -34,6 +34,6 @@ public class Student {
 			System.out.print(scores[i] +" ");
 		}
 		System.out.println("\nAverage Score: "+calculateAverageScore());
-		System.out.println("Grade: "+getGrade());
+		System.out.println("grade: "+getGrade());
 	}
 }

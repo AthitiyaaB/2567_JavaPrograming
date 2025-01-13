@@ -8,7 +8,7 @@ public class TestStudent {
 		std2.setStudentDetails("Sukonlawat", new double[] {90.0,59.8} );
 		
 		line('=');
-		System.out.println("Student#1 Details:");
+		System.out.println("Student#1 Detail:");
 		std1.displayStudentDetails();
 		line('*');
 		System.out.println("\nStudent#2 Details:");

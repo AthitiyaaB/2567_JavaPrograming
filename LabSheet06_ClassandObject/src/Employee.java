@@ -23,7 +23,7 @@ public class Employee {
 		System.out.println("Name: "+ name);
 		System.out.println("Hour Worked: "+hoursWorked);
 		System.out.println("Hour Rate: "+ hourlyRate);
-		System.out.println("Total salary: "+calculateSalary());
+		System.out.println("Total Salary: "+calculateSalary());
 	}
 }
 

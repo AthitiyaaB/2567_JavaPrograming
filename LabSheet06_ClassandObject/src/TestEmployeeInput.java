@@ -32,7 +32,7 @@ public class TestEmployeeInput {
 		
 		emp2.setEmployeeDetails(empName2, empHoursWorked2, empHourlyRate2);
 		
-		System.out.println("\nEmployee 2 Details:");
+		System.out.println("\nEmployee 2 Detail:");
 		emp1.displayEmployeeDetails();
 	}
 
