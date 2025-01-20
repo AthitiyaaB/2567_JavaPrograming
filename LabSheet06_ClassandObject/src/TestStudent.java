@@ -20,7 +20,7 @@ public class TestStudent {
 		//System.out.println("******************************");
 		for(int i=1;i<40;i++) {
 			//System.out.println("*");
-			System.out.println(ch);
+			System.out.print(ch);
 		}
 		System.out.println();
 	}	
