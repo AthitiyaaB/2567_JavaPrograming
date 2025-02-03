@@ -24,7 +24,7 @@ public class Rectangle {
 		this.length = length;
 	}
 	
-	public float getWidth() {
+	public float getWidth () {
 		return this.width;
 	}
 	
