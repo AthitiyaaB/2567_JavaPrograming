@@ -37,7 +37,8 @@ public class TestStudent {
 		Line();
 		for(Student student : students) {
 			if(student.isPass()) {
-				System.out.println(">>" + student.getName() + " (" + student.getScore() + ")" + "get grade " + findGrade(student.getScore()));
+				System.out.println(">>" + student.getName() 
+				+ " (" + student.getScore() + ")" + "get grade " + findGrade(student.getScore()));
 			}
 		}
 			
